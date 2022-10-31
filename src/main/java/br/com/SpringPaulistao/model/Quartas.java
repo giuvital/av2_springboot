@@ -1,4 +1,4 @@
-package br.com.joaosantana.SpringPaulistao.model;
+package br.com.SpringPaulistao.model;
 
 public class Quartas {
 	private String Grupo;
